@@ -10,7 +10,7 @@ external execution cells.
 It is assumed that the user of this paclet has:
 
 - Installed [Raku](https://rakudo.org)
-- Installed the Raku module ["Text::CodeProcessing"](https://raku.land/zef:antononcube/Text::CodeProcessing)
+- Installed the Raku module ["Text::CodeProcessing"](https://raku.land/zef:antononcube/Text::CodeProcessing), [AAp1]
 
 ## Installation
 
@@ -58,3 +58,21 @@ subgraph Notebook
         OC
 end   
 ```
+
+-----
+
+## References
+
+### Articles
+
+[AA1] Anton Antonov,
+["Connecting Raku with Wolfram Language and Mathematica"](https://community.wolfram.com/groups/-/m/t/2434981),
+(2021),
+[Community.wolfram.com](https://community.wolfram.com).
+
+### Packages
+
+[AAp1] Anton Antonov,
+[Text::CodeProcessing Raku package](https://github.com/antononcube/Raku-Text-CodeProcessing),
+(2021-2023),
+[GitHub/antononcube](https://github.com/antononcube).
