@@ -104,7 +104,7 @@ RakuInputExecute[boxData_String, opts : OptionsPattern[]] :=
         BinaryWrite[$RakuZMQSocket, StringToByteArray[ff, $SystemCharacterEncoding]];
         epilogFunc @ ByteArrayToString[SocketReadMessage[$RakuZMQSocket]],
         (* ELSE *)
-        epilogFunc @ RakuCommand`RakuCommand[boxData, OptionValue[RakuInputExecute, "ModuleDirectory"], OptionValue[RakuInputExecute, "ModuleName"]]
+        epilogFunc @ RakuCommand[boxData, OptionValue[RakuInputExecute, "ModuleDirectory"], OptionValue[RakuInputExecute, "ModuleName"]]
       ]
     ];
 
