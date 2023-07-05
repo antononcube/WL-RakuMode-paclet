@@ -34,12 +34,13 @@ Begin["`Private`"];
 
 nbRakuStyle =
     Notebook[{
-      Cell[StyleData[StyleDefinitions -> "Default.nb"]],
+      Cell[StyleData[StyleDefinitions -> If[ $VersionNumber >= 13.3, "Chatbook.nb", "Default.nb"]]],
 
       Cell[StyleData["Input"],
         StyleKeyMapping -> {
           "|" -> "RakuInputExecute",
           "=" -> "WolframAlphaShort",
+          "'" -> "ChatInput",
           ">" -> "ExternalLanguage",
           "Tab" -> "RakuInputExecute"}],
 
@@ -131,9 +132,9 @@ RakuMode[nb_NotebookObject] :=
       SetOptions[nb, StyleDefinitions -> BinaryDeserialize[BinarySerialize[nbRakuStyle]]]
     ];
 
-RakuMode[ False] := SetOptions[EvaluationNotebook[], StyleDefinitions -> "Default.nb"];
+RakuMode[ False] := SetOptions[EvaluationNotebook[], StyleDefinitions -> If[ $VersionNumber >= 13.3, "Chatbook.nb", "Default.nb"]];
 
-RakuMode[nb_NotebookObject, False] := SetOptions[nb, StyleDefinitions -> "Default.nb"];
+RakuMode[nb_NotebookObject, False] := SetOptions[nb, StyleDefinitions -> If[ $VersionNumber >= 13.3, "Chatbook.nb", "Default.nb"]];
 
 
 (***********************************************************)

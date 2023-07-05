@@ -5,10 +5,11 @@ PacletObject[
     "Name" -> "AntonAntonov/RakuMode",
     "Description" -> "Notebook style with cells for external execution of Raku commands",
     "Creator" -> "Anton Antonov",
-    "Version" -> "1.0.1",
-    "WolframVersion" -> "13.2+",
-    "PublisherID" -> "AntonAntonov",
     "License" -> "MIT",
+    "PublisherID" -> "AntonAntonov",
+    "Version" -> "1.0.2",
+    "WolframVersion" -> "13.2+",
+    "PrimaryContext" -> "AntonAntonov`RakuMode`",
     "Extensions" -> {
       {
         "Kernel",
