@@ -41,7 +41,7 @@ Cell["", "FileManagerTopSpacer",
  CellGroupingRules->{"SectionGrouping", 99},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->480541895,ExpressionUUID->"6758d26e-56fd-478e-82ca-41dd449fd2d7"],
+ CellID->480541895,ExpressionUUID->"4def247b-a540-44bd-a6fd-53b560a17489"],
 
 Cell[CellGroupData[{
 
@@ -66,7 +66,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"489a7bb2-2303-4f68-b6f3-2813297aec24"]], \
+   "Text"}]],ExpressionUUID->"4d836fce-5907-4807-90d7-a43d39b4a6dd"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -77,7 +77,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDocumentationIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1929116545,ExpressionUUID->"33ca953d-58e8-4576-b0d9-30ffa6b97bf5"],
+ CellID->1929116545,ExpressionUUID->"82b42463-8cf9-4b2b-9f95-52eb36a371bc"],
 
 Cell[CellGroupData[{
 
@@ -102,7 +102,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "Diagrams"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"a02af990-0930-42dd-b489-0ef4bbcb7b26"]], \
+   "Text"}]],ExpressionUUID->"4c4c652b-a33e-4a58-a7bb-a3109bf56349"]], \
 "FileManagerDirectory",
  CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 110},
@@ -113,7 +113,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->249055956,ExpressionUUID->"8459b572-f811-4393-917c-3a934389473e"],
+ CellID->249055956,ExpressionUUID->"ad961915-7e2a-4312-b5c8-28ab34b027f0"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -139,7 +139,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerPNGIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->437824489,ExpressionUUID->"7c9cc248-962a-42a7-8cf0-8d9f050e665c"]
+ CellID->437824489,ExpressionUUID->"d15dee51-cbff-4755-9032-27eb59f5fa8b"]
 }, Open  ]],
 
 Cell[TextData[Cell[BoxData[
@@ -163,7 +163,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Documentation", "English"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"58dcff9a-9b3e-4a06-86d2-221dd731bbbe"]], \
+   "Text"}]],ExpressionUUID->"ac9fbf13-5339-4c99-85b6-20a47ba583cd"]], \
 "FileManagerDirectory",
  CellMargins->{{23 + Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 110},
@@ -174,7 +174,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerEmptyDirectoryIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1237212001,ExpressionUUID->"2d965b7c-79df-45d5-8b7e-632e450ea1f1"]
+ CellID->1237212001,ExpressionUUID->"582bc929-73c7-4da3-9fd5-cb7118ea1573"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -200,7 +200,7 @@ Cell[TextData[Cell[BoxData[
     NotebookDirectory[], "Kernel"}],
   BoxID -> "FileTreePath",
   BaseStyle->{
-   "Text"}]],ExpressionUUID->"163b7fac-5e05-4e9d-83c1-90609327a988"]], \
+   "Text"}]],ExpressionUUID->"59cfa5b4-2c7f-4416-8ed5-411c66c5f7ee"]], \
 "FileManagerDirectory",
  CellMargins->{{Inherited, Inherited}, {Inherited, Inherited}},
  CellGroupingRules->{"SectionGrouping", 100},
@@ -211,7 +211,7 @@ Cell[TextData[Cell[BoxData[
       TemplateBox[{}, "FileManagerKernelIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->2101153056,ExpressionUUID->"3c4a68ba-641d-4b10-bb2d-71803c5c2541"],
+ CellID->2101153056,ExpressionUUID->"03a33024-ae70-4a62-9cb7-e08f1c762aab"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -235,7 +235,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerWLIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->858320924,ExpressionUUID->"fa41fca0-2cfe-4bb8-91a7-6166335b979e"]
+ CellID->858320924,ExpressionUUID->"1292be32-5f4d-4656-9dce-d74ad349ca2b"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -260,7 +260,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerUnknownIconTemplate"]], Background -> None],
      Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1152112769,ExpressionUUID->"1f259c95-2d11-42a2-81c2-5d4dfc9b40c2"],
+ CellID->1152112769,ExpressionUUID->"db152f16-3c28-4752-98cf-da18845c7f50"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -284,7 +284,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerPacletInfoIconTemplate"]], Background -> 
      None], Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1846747231,ExpressionUUID->"6bd7de1c-4bc7-42c7-bc5c-51f2c0df972b"],
+ CellID->1846747231,ExpressionUUID->"2faaab97-fc30-4070-a4bb-83d6d5820e62"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -308,7 +308,7 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerTXTIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->699561326,ExpressionUUID->"cbbff9a7-fe9b-46e8-96d6-72b65d9f18af"],
+ CellID->699561326,ExpressionUUID->"c05c0222-1a84-4fe3-92cd-765d13dff94a"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -332,13 +332,13 @@ Cell[BoxData[
       TemplateBox[{}, "FileManagerNBIconTemplate"]], Background -> None], 
     Inherited}, {Inherited, Inherited}},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->54238757,ExpressionUUID->"7d1e68ab-5570-4c05-8060-68980db3b8b2"],
+ CellID->54238757,ExpressionUUID->"a66db838-b49b-47e3-b434-0005e7f41b70"],
 
 Cell["", "FileManagerBottomSpacer",
  CellGroupingRules->{"SectionGrouping", 100},
  TaggingRules->{},
  CellTags->{"FileManagerCell", "FileManager-PacletFiles"},
- CellID->1057722571,ExpressionUUID->"82bfea4e-7bc7-4921-b528-b875b21629e8"]
+ CellID->1057722571,ExpressionUUID->"df08dff4-35e3-496b-9b12-167d79d56310"]
 }, Open  ]]
 }, Open  ]],
 
@@ -11846,6 +11846,19 @@ repository that are related to this paclet.", "MoreInfoText"], Background ->
  CellTags->{"Related Resource Objects", "TemplateCellGroup"},
  CellID->280622473,ExpressionUUID->"fb46130c-b4f7-48bc-81cb-ac7a4e152ce2"],
 
+Cell["AntonAntonov/NotebookModifiers", "Item",
+ TaggingRules->{},
+ CellEventActions->{Inherited, {"KeyDown", "\t"} :> Replace[SelectionMove[
+       SelectedNotebook[], After, Cell]; NotebookFind[
+       SelectedNotebook[], "TabNext", Next, CellTags, AutoScroll -> True, 
+       WrapAround -> True], Blank[NotebookSelection] :> SelectionMove[
+       SelectedNotebook[], All, CellContents, AutoScroll -> True]], 
+   PassEventsDown -> False, PassEventsUp -> False},
+ CellChangeTimes->{{3.890079892673946*^9, 3.8900799031245127`*^9}, {
+  3.906042457365327*^9, 3.9060424884402533`*^9}},
+ CellTags->{"DefaultContent", "TabNext"},
+ CellID->694609509,ExpressionUUID->"d9a3dda2-5dee-4846-8556-af1d791e48a6"],
+
 Cell["AntonAntonov/OpenAIMode", "Item",
  TaggingRules->{},
  CellEventActions->{Inherited, {"KeyDown", "\t"} :> Replace[SelectionMove[
@@ -11854,9 +11867,22 @@ Cell["AntonAntonov/OpenAIMode", "Item",
        WrapAround -> True], Blank[NotebookSelection] :> SelectionMove[
        SelectedNotebook[], All, CellContents, AutoScroll -> True]], 
    PassEventsDown -> False, PassEventsUp -> False},
- CellChangeTimes->{{3.890079892673946*^9, 3.8900799031245127`*^9}},
+ CellChangeTimes->{{3.890079892673946*^9, 3.8900799031245127`*^9}, {
+  3.906042457365327*^9, 3.9060424573678493`*^9}},
  CellTags->{"DefaultContent", "TabNext"},
- CellID->694609509,ExpressionUUID->"d9a3dda2-5dee-4846-8556-af1d791e48a6"]
+ CellID->1373778077,ExpressionUUID->"a3565149-db8b-4508-b2c0-2ebc8ac008c3"],
+
+Cell["AntonAntonov/PaLMMode", "Item",
+ TaggingRules->{},
+ CellEventActions->{Inherited, {"KeyDown", "\t"} :> Replace[SelectionMove[
+       SelectedNotebook[], After, Cell]; NotebookFind[
+       SelectedNotebook[], "TabNext", Next, CellTags, AutoScroll -> True, 
+       WrapAround -> True], Blank[NotebookSelection] :> SelectionMove[
+       SelectedNotebook[], All, CellContents, AutoScroll -> True]], 
+   PassEventsDown -> False, PassEventsUp -> False},
+ CellChangeTimes->{{3.890079892673946*^9, 3.8900799031245127`*^9}, {
+  3.906042458308118*^9, 3.906042493795031*^9}},
+ CellID->1313456177,ExpressionUUID->"efbf9566-84a3-4781-8e50-dacb4b2899e3"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -12938,7 +12964,8 @@ Cell[BoxData[
      TagBox[GridBox[{
         {
          TemplateBox[{
-           CheckboxBox[False, {False, "PacletDependencies"}], "\" \"", 
+           CheckboxBox["PacletDependencies", {False, "PacletDependencies"}], 
+           "\" \"", 
            StyleBox[
             TemplateBox[{"\"Paclet dependencies\"", 
               TemplateBox[{"DisclosuresPacletDependencies", 
@@ -12992,6 +13019,7 @@ E6pOLO6GDKOKW1HkZaRWvWUJkSG05YBLT0s7fTI1WBur8ZpQNuHHw3pqay/zZn6kOeffG2Qycz3l/\
 ryh6XbOSmljT/7+KosmYFTjlQe6JTZntB8ptsy+Iy+\
 UQ2pdCIzw2ngeWZj789X7Oj5XXiawOqcE9Ngz5ydR4cJkj9LJ5vZHJebhFoB3SjwLSxamhHVPF3SmL\
 9YKtD9aQbjAHpDcbwyLPaCttg/8CfOuqyQ=="},
+ CellChangeTimes->{{3.906042445648087*^9, 3.906042445758133*^9}},
  CellTags->{
   "CheckboxCell", "Disclosures", "Disclosures-Checkboxes", 
    "Disclosures-PacletDependencies"},
@@ -13310,178 +13338,6 @@ DockedCells->{
   Cell[
    BoxData[
     StyleBox[
-     TagBox[
-      GridBox[{{
-         OverlayBox[{
-           StyleBox[
-            TagBox[
-             DynamicModuleBox[{Typeset`var$$ = False}, 
-              InterpretationBox[
-               StyleBox[
-                PaneSelectorBox[{False -> GridBox[{{
-                    OpenerBox[
-                    Dynamic[Typeset`var$$], Appearance -> Automatic, Enabled -> 
-                    Automatic, AutoAction -> False, ContinuousAction -> 
-                    False], 
-                    StyleBox[
-                    DynamicBox[
-                    ToBoxes[
-                    DateString[
-                    TimeZoneConvert[
-                    DateObject[
-                    3.89751423015635`16.343362698669864*^9, TimeZone -> 0]], {
-                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
-                    "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
-                    StandardForm], SingleEvaluation -> True, Evaluator -> 
-                    "System"], FontSlant -> Italic, FontColor -> 
-                    GrayLevel[0.5], FontSize -> 0.9 Inherited, StripOnInput -> 
-                    False]}}, GridBoxAlignment -> {"Columns" -> {{Left}}}, 
-                    AutoDelete -> False, 
-                    GridBoxBackground -> {"Columns" -> {{Automatic}}}, 
-                    GridBoxItemSize -> {
-                    "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
-                    GridBoxSpacings -> {
-                    "Columns" -> {{0.2}}, "Rows" -> {{0.5}}}, 
-                    BaselinePosition -> {1, 1}], True -> GridBox[{{
-                    OpenerBox[
-                    Dynamic[Typeset`var$$], Appearance -> Automatic, Enabled -> 
-                    Automatic, AutoAction -> False, ContinuousAction -> 
-                    False], 
-                    StyleBox[
-                    DynamicBox[
-                    ToBoxes[
-                    DateString[
-                    TimeZoneConvert[
-                    DateObject[
-                    3.89751423015635`16.343362698669864*^9, TimeZone -> 0]], {
-                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
-                    "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
-                    StandardForm], SingleEvaluation -> True, Evaluator -> 
-                    "System"], FontSlant -> Italic, FontColor -> 
-                    GrayLevel[0.5], FontSize -> 0.9 Inherited, StripOnInput -> 
-                    False]}, {"", 
-                    PaneBox["\"\"", ImageMargins -> 0]}}, 
-                    GridBoxAlignment -> {"Columns" -> {{Left}}}, AutoDelete -> 
-                    False, GridBoxBackground -> {"Columns" -> {{Automatic}}}, 
-                    GridBoxItemSize -> {
-                    "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}, 
-                    GridBoxSpacings -> {
-                    "Columns" -> {{0.2}}, "Rows" -> {{0.5}}}, 
-                    BaselinePosition -> {1, 1}]}, 
-                 Dynamic[
-                  TrueQ[Typeset`var$$]], Alignment -> Automatic, ImageSize -> 
-                 Automatic, ImageMargins -> 0, BaseStyle -> {}, 
-                 DefaultBaseStyle -> "OpenerView", BaselinePosition -> 
-                 Baseline], Deployed -> False, StripOnInput -> False], 
-               OpenerView[{
-                 Style[
-                  Dynamic[
-                   DateString[
-                    TimeZoneConvert[
-                    DateObject[
-                    3.89751423015635`16.343362698669864*^9, TimeZone -> 0]], {
-                    "MonthName", " ", "DayShort", ", ", "Year", " ", 
-                    "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
-                   SingleEvaluation -> True, Evaluator -> "System"], 
-                  FontSlant -> Italic, FontColor -> GrayLevel[0.5], FontSize -> 
-                  0.9 Inherited], ""}, False]], DynamicModuleValues -> 
-              Automatic], Setting[#, {0}]& ], ShowContents -> False, 
-            StripOnInput -> False], 
-           StyleBox[
-            DynamicBox[
-             ToBoxes[
-              DateString[
-               TimeZoneConvert[
-                DateObject[
-                3.89751423015635`16.343362698669864*^9, TimeZone -> 0]], {
-               "MonthName", " ", "DayShort", ", ", "Year", " ", "Hour12Short",
-                 ":", "Minute", " ", "AMPMLowerCase"}], StandardForm], 
-             SingleEvaluation -> True, Evaluator -> "System"], FontSlant -> 
-            Italic, FontColor -> GrayLevel[0.5], FontSize -> 0.9 Inherited, 
-            StripOnInput -> False]}, Alignment -> {Right, Baseline}], 
-         "\"   \"", 
-         ItemBox[
-          StyleBox[
-          "\"Found 2 potential issues and 1 suggestion\"", LineBreakWithin -> 
-           Automatic, LineIndent -> 0, StripOnInput -> False], ItemSize -> 
-          Fit, StripOnInput -> False], "", 
-         TagBox[
-          ButtonBox[
-           TagBox[
-            PaneSelectorBox[{False -> GraphicsBox[{
-                 GrayLevel[
-                  NCache[
-                   Rational[64, 85], 0.7529411764705882]], 
-                 
-                 PolygonBox[{{-0.282842712474619, -0.42426406871192845`}, \
-{-0.42426406871192845`, -0.282842712474619}, {0.282842712474619, 
-                  0.42426406871192845`}, {0.42426406871192845`, 
-                  0.282842712474619}}], 
-                 
-                 PolygonBox[{{0.42426406871192845`, -0.282842712474619}, {
-                  0.282842712474619, -0.42426406871192845`}, \
-{-0.42426406871192845`, 0.282842712474619}, {-0.282842712474619, 
-                  0.42426406871192845`}}]}, ImageSize -> 18, PlotRangePadding -> 
-                0, PlotRange -> 0.7, Background -> None], True -> GraphicsBox[{
-                 GrayLevel[
-                  NCache[
-                   Rational[128, 255], 0.5019607843137255]], 
-                 
-                 PolygonBox[{{-0.282842712474619, -0.42426406871192845`}, \
-{-0.42426406871192845`, -0.282842712474619}, {0.282842712474619, 
-                  0.42426406871192845`}, {0.42426406871192845`, 
-                  0.282842712474619}}], 
-                 
-                 PolygonBox[{{0.42426406871192845`, -0.282842712474619}, {
-                  0.282842712474619, -0.42426406871192845`}, \
-{-0.42426406871192845`, 0.282842712474619}, {-0.282842712474619, 
-                  0.42426406871192845`}}]}, ImageSize -> 18, PlotRangePadding -> 
-                0, PlotRange -> 0.7, Background -> None]}, 
-             Dynamic[
-              CurrentValue["MouseOver"]], ImageSize -> Automatic, 
-             FrameMargins -> 0], 
-            MouseAppearanceTag["LinkHand"]], ButtonFunction :> 
-           With[{DefinitionNotebookClient`Stripes`PackagePrivate`nbo$ = 
-              EvaluationNotebook[]}, 
-             CurrentValue[
-              DefinitionNotebookClient`Stripes`PackagePrivate`nbo$, 
-               DockedCells] = If[
-               TrueQ[
-                MemberQ[
-                 CurrentValue["ModifierKeys"], "Control"]], 
-               DeleteCases[
-                Flatten[{
-                  CurrentValue[
-                  DefinitionNotebookClient`Stripes`PackagePrivate`nbo$, 
-                   DockedCells]}], 
-                Cell[
-                 Blank[], "StripeCell", 
-                 BlankNullSequence[]]], 
-               DeleteCases[
-                Flatten[{
-                  CurrentValue[
-                  DefinitionNotebookClient`Stripes`PackagePrivate`nbo$, 
-                   DockedCells]}], 
-                Condition[
-                 Pattern[DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                  Blank[Cell]], 
-                 Not[
-                  FreeQ[
-                  DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                   "8af5bc43-26e2-48df-8ebf-ed5b876f5309"]]]]]], Appearance -> 
-           None, BoxID -> "8af5bc43-26e2-48df-8ebf-ed5b876f5309", Evaluator -> 
-           Automatic, Method -> "Preemptive"], 
-          MouseAppearanceTag["LinkHand"]]}}, 
-       GridBoxAlignment -> {"Columns" -> {{Left}}, "Rows" -> {{Baseline}}}, 
-       AutoDelete -> False, 
-       GridBoxItemSize -> {
-        "Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}], "Grid"], 
-     "Text", FontSize -> 12, FontColor -> GrayLevel[0.25], StripOnInput -> 
-     False]], "StripeCell", CellFrameMargins -> {{20, 5}, {2, 2}}, 
-   CellFrame -> {{0, 0}, {1, 0}}, CellFrameColor -> GrayLevel[0.75]], 
-  Cell[
-   BoxData[
-    StyleBox[
      InterpretationBox[
       StyleBox[
        PaneSelectorBox[{False -> GridBox[{{
@@ -13499,7 +13355,7 @@ DockedCells->{
                     DateString[
                     TimeZoneConvert[
                     DateObject[
-                    3.897514421155197`16.34336271995259*^9, TimeZone -> 0]], {
+                    3.90604437869243`16.34431216239539*^9, TimeZone -> 0]], {
                     "MonthName", " ", "DayShort", ", ", "Year", " ", 
                     "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
                     StandardForm], SingleEvaluation -> True, Evaluator -> 
@@ -13607,7 +13463,7 @@ stripeText["Your paclet resource is being published"]]& ], "\"\""}},
                     StyleBox[
                     "Echo", "Program", FontWeight -> Medium, 
                     ShowStringCharacters -> True, StripOnInput -> False], 
-                    "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L165,C9) \
+                    "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L192,C9) \
 \\\\\\\"\\\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
 Inherited]], Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", \
 False]]], Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
@@ -13618,28 +13474,28 @@ False]]], Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Suggestion", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "dff009b6-a9f8-49b9-8233-1a5f590896f2", 858320924, 
+                    "cd905fc1-5836-42de-9c57-9b1601dd74ab", 858320924, 
                     "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
                     "File" -> 
                     "/Volumes/Macintosh \
 HD/Users/antonov/WL-RakuMode-paclet/Kernel/RakuMode.wl", "Editor" -> 
-                    Automatic, "SourceLineStart" -> 165, "SourceColumnStart" -> 
-                    9, "SourceLineEnd" -> 165, "SourceColumnEnd" -> 13, 
+                    Automatic, "SourceLineStart" -> 192, "SourceColumnStart" -> 
+                    9, "SourceLineEnd" -> 192, "SourceColumnEnd" -> 13, 
                     "Message" -> 
                     "Suspicious use of session symbol \
-``Echo``.\!\(\*StyleBox[\"\\\" (L165,C9) \\\"\", Rule[FontOpacity, 0.65`], \
+``Echo``.\!\(\*StyleBox[\"\\\" (L192,C9) \\\"\", Rule[FontOpacity, 0.65`], \
 Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
 List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, False]]\)", 
                     "SourceInformation" -> 
                     CodeInspector`InspectionObject[
                     "SuspiciousSessionSymbol", 
                     "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                    CodeParser`Source -> {{165, 9}, {165, 13}}, 
+                    CodeParser`Source -> {{192, 9}, {192, 13}}, 
                     ConfidenceLevel -> 0.55, "File" -> 
                     "/Volumes/Macintosh \
 HD/Users/antonov/WL-RakuMode-paclet/Kernel/RakuMode.wl", "Editor" -> 
-                    Automatic|>], "Hash" -> 6335356719653325914, "Position" -> 
-                    "\!\(\*StyleBox[\"\\\" (L165,C9) \\\"\", \
+                    Automatic|>], "Hash" -> 3544907539325386207, "Position" -> 
+                    "\!\(\*StyleBox[\"\\\" (L192,C9) \\\"\", \
 Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
 Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", False]]], \
 Rule[StripOnInput, False]]\)"|>]; 
@@ -13659,7 +13515,7 @@ reducing the resolution\""}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Warning", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "42c12543-fbea-4369-8822-ee0253dccade", 1295649668, 
+                    "6c4f22d2-bc57-40ae-9e50-ee2fc3788822", 1295649668, 
                     "HugeRaster", {1295649668}]; 
                     DefinitionNotebookClient`PackageScope`seekAfter[
                     1295649668]; Null]}, Appearance -> None], "BoxID" -> 
@@ -13730,8 +13586,8 @@ reducing the resolution\""}, "RowDefault"] :>
                     Not[
                     FreeQ[
                     DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                    "69f95485-e95f-4c2b-82a5-5937d6c0e975"]]]]]], Appearance -> 
-                   None, BoxID -> "69f95485-e95f-4c2b-82a5-5937d6c0e975", 
+                    "ae51f18a-34a4-4447-8493-d62f0226d456"]]]]]], Appearance -> 
+                   None, BoxID -> "ae51f18a-34a4-4447-8493-d62f0226d456", 
                    Evaluator -> Automatic, Method -> "Preemptive"], 
                   MouseAppearanceTag["LinkHand"]]}}, 
                GridBoxAlignment -> {
@@ -13759,7 +13615,7 @@ reducing the resolution\""}, "RowDefault"] :>
                     DateString[
                     TimeZoneConvert[
                     DateObject[
-                    3.897514421155197`16.34336271995259*^9, TimeZone -> 0]], {
+                    3.90604437869243`16.34431216239539*^9, TimeZone -> 0]], {
                     "MonthName", " ", "DayShort", ", ", "Year", " ", 
                     "Hour12Short", ":", "Minute", " ", "AMPMLowerCase"}], 
                     StandardForm], SingleEvaluation -> True, Evaluator -> 
@@ -13867,7 +13723,7 @@ stripeText["Your paclet resource is being published"]]& ], "\"\""}},
                     StyleBox[
                     "Echo", "Program", FontWeight -> Medium, 
                     ShowStringCharacters -> True, StripOnInput -> False], 
-                    "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L165,C9) \
+                    "\".\\!\\(\\*StyleBox[\\\"\\\\\\\" (L192,C9) \
 \\\\\\\"\\\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
 Inherited]], Rule[PrivateFontOptions, List[Rule[\\\"OperatorSubstitution\\\", \
 False]]], Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :> 
@@ -13878,28 +13734,28 @@ False]]], Rule[StripOnInput, False]]\\)\""}, "RowDefault"]}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Suggestion", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "dff009b6-a9f8-49b9-8233-1a5f590896f2", 858320924, 
+                    "cd905fc1-5836-42de-9c57-9b1601dd74ab", 858320924, 
                     "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
                     "File" -> 
                     "/Volumes/Macintosh \
 HD/Users/antonov/WL-RakuMode-paclet/Kernel/RakuMode.wl", "Editor" -> 
-                    Automatic, "SourceLineStart" -> 165, "SourceColumnStart" -> 
-                    9, "SourceLineEnd" -> 165, "SourceColumnEnd" -> 13, 
+                    Automatic, "SourceLineStart" -> 192, "SourceColumnStart" -> 
+                    9, "SourceLineEnd" -> 192, "SourceColumnEnd" -> 13, 
                     "Message" -> 
                     "Suspicious use of session symbol \
-``Echo``.\!\(\*StyleBox[\"\\\" (L165,C9) \\\"\", Rule[FontOpacity, 0.65`], \
+``Echo``.\!\(\*StyleBox[\"\\\" (L192,C9) \\\"\", Rule[FontOpacity, 0.65`], \
 Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
 List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, False]]\)", 
                     "SourceInformation" -> 
                     CodeInspector`InspectionObject[
                     "SuspiciousSessionSymbol", 
                     "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                    CodeParser`Source -> {{165, 9}, {165, 13}}, 
+                    CodeParser`Source -> {{192, 9}, {192, 13}}, 
                     ConfidenceLevel -> 0.55, "File" -> 
                     "/Volumes/Macintosh \
 HD/Users/antonov/WL-RakuMode-paclet/Kernel/RakuMode.wl", "Editor" -> 
-                    Automatic|>], "Hash" -> 6335356719653325914, "Position" -> 
-                    "\!\(\*StyleBox[\"\\\" (L165,C9) \\\"\", \
+                    Automatic|>], "Hash" -> 3544907539325386207, "Position" -> 
+                    "\!\(\*StyleBox[\"\\\" (L192,C9) \\\"\", \
 Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
 Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", False]]], \
 Rule[StripOnInput, False]]\)"|>]; 
@@ -13919,7 +13775,7 @@ reducing the resolution\""}, "RowDefault"] :>
                     DefinitionNotebookClient`PackageScope`setHint[
                     "Warning", "Paclet", 
                     DefinitionNotebookClient`$CurrentNotebook, 
-                    "42c12543-fbea-4369-8822-ee0253dccade", 1295649668, 
+                    "6c4f22d2-bc57-40ae-9e50-ee2fc3788822", 1295649668, 
                     "HugeRaster", {1295649668}]; 
                     DefinitionNotebookClient`PackageScope`seekAfter[
                     1295649668]; Null]}, Appearance -> None], "BoxID" -> 
@@ -13990,8 +13846,8 @@ reducing the resolution\""}, "RowDefault"] :>
                     Not[
                     FreeQ[
                     DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                    "69f95485-e95f-4c2b-82a5-5937d6c0e975"]]]]]], Appearance -> 
-                   None, BoxID -> "69f95485-e95f-4c2b-82a5-5937d6c0e975", 
+                    "ae51f18a-34a4-4447-8493-d62f0226d456"]]]]]], Appearance -> 
+                   None, BoxID -> "ae51f18a-34a4-4447-8493-d62f0226d456", 
                    Evaluator -> Automatic, Method -> "Preemptive"], 
                   MouseAppearanceTag["LinkHand"]]}}, 
                GridBoxAlignment -> {
@@ -14046,7 +13902,8 @@ reducing the resolution\""}, "RowDefault"] :>
                     TagBox[
                     TemplateBox[{"\"UUID\"", "\": \""}, "RowDefault"], 
                     "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"99d08ef5-9394-4f17-8449-2a013bf4b698\"", 
+                    TagBox[
+                    "\"99d08ef5-9394-4f17-8449-2a013bf4b698\"", 
                     "SummaryItem"]}]}}, 
                     GridBoxAlignment -> {
                     "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, 
@@ -14098,12 +13955,12 @@ reducing the resolution\""}, "RowDefault"] :>
                     TagBox[
                     TemplateBox[{"\"Version\"", "\": \""}, "RowDefault"], 
                     "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"1.0.2\"", "SummaryItem"]}]}, {
+                    TagBox["\"1.0.3\"", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox[
                     TemplateBox[{"\"SubmissionID\"", "\": \""}, "RowDefault"],
                      "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"9183\"", "SummaryItem"]}]}, {
+                    TagBox["\"3530\"", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox[
                     
@@ -14141,7 +13998,7 @@ reducing the resolution\""}, "RowDefault"] :>
                     "SummaryPanel"], DynamicModuleValues :> {}], "]"}], 
                     Short[#, 0.75]& ], 
                     "OEM6eJztWE9vG0UUj+\
-O1HTuuG9ogBCdrFYE4uEqaADGX4GziNlLTWh63gBBSx9639ojd2dXMbFLzHThx5cC3gjN8AD4CvNl/\
+O1HTuuG9ogBCdrFYE4uEpICjGX4GziNlLTWh63gBBSx9639ojd2dXMbFLzHThx5cC3gjN8AD4CvNl/\
 dtapFJwgevBe1tr37zdv3nu/JzsFudGnl8f+G5BOSb53xhWIQICiivkcPzsFWe77WsExpPGMSeWsy/\
 KAjvELqZBwNAIpySYJPY+K6VOgNil85xTl1smUU4+\
 Nzn07dEGbr2fmRQJKNgbTACSo134AfGdHlrrUlZBKt1MpeEOwCcKBnR1S6qP/\
@@ -14154,19 +14011,18 @@ JMQtyuzOUvhsqmNeX987pmDOHjaIatv7G697oCupFl1qUG1F6dPmWzD9++\
 dlEh9UTJrBm9JlR3n9ybPmuL8QH0fPbkXgYPX8eiW+i5/\
 cj68PsxHWiBAte8DMehGpWxbGwYSF0BNajts34OC+uRbAiPLl7rEeScyrGjMv5MtZva81ay/9+\
 O5byrNhTP4XsnfZ2Md/b+SZLTEnDTMtcV6hJDPPLpklq6OYEHBq6iryflPyZAq/DuR+\
-PElL866df50bHhtmjIxeUmc0OrX8bZGXz5cuzk+URfWy22/\
-buITiftdr77YPWgbP3Revw4KDdekx39/aHzsHw8/ZhDm+a+\
+PElL866df50bHhtmjIxeUmc0OrX8bZGXz5cuzk+URfWy22/buITiPW+\
+399kHrwNn7onV4cNBufUZ39/aHzsHw8/ZhDm+a+\
 a0kxQudkmqQCtZU6HE5d8S4KYxn4MzUDMS9qHNNw9b0J5wioCBfVvcTMBph1Io3xrIY5+\
 aA0qgkoCNd6zeOaq3/+\
 2Bzc87IzbltMvEvdSPwsTXBITnScyqfos3nIRKLwAb7YUHWwMGOLYsTgUk9QIqzW45cT7mib+\
 KmzZv+x2VQHPjBu1sAW/pOXMah50uWkFl8wQWrkGnFTPa/MLDl+\
-nJpBs6P7hUFryh4CQqurCj4jin4Fnir5itsIASyPOSKufdo99Hju8PUMEk49JjUsG6Ty7LZ3jvcvzt\
-cW2bcoZaAKN7yyCIGuMM7PEcexom3PKBPzW+\
-xnZpB1A1NkTRXk8nmEHBkNINw6DI5AfvuslkyUb484u1sBMyKZbWZrjbT1Wa6xGY625LyS981O9Wce\
-1JP+k2vq25+rXx45Q+weC1KF0JS+B7Vs3/\
-PHiw2c6fcIvV5miflmKxbxNAcS3ZuwpQtUkkIjpQimmppzDN2IYbmiBZpXB3t8Y6OxslkJZ/\
-ccD7OKiD+E44O3YUK2Di12bWCB7HN10xNkpVNxkD+Ab279Ns="}, 
-                    "ClickToCopyTemplate"]}, {
+nJpBs6P7hUFryh4CQqurCj4jin4Fnir5itsIASyPOSKufdo99H+3WFqmCQcekxqWLfJZdncf7y/\
+e3e4tsy4Qy0BUbzlkUUMcId3eI48jBNveUCfmt9iOzWDqBuaImmuJpPNIeDIaAbh0GVyAvbdZbNkon\
+x5xNvZCJgVy2ozXW2mq810ic10tiXll75rdqo596Se9JteV938Wvnwyh9g8VqULoSk8D2qZ/+\
+ePVhs5k65RerzNE/\
+KMVm3iKE5luzchClbpJIQHClFNNXSmGfsQgzNES3SuDra4x0djZPJSj654XycVUD8JxwdugsVsHFqs\
+2sFD2Kbr5maJCubjIH8A3u09Mk="}, "ClickToCopyTemplate"]}, {
                     "\"\[FilledVerySmallSquare]\"", "\"Resource object:\"", 
                     TemplateBox[{
                     TagBox[
@@ -14298,7 +14154,6 @@ svthfJj/YHyY/2F8WPjAzIOFH0p8AQA7u3Ea
                     0.43137254901960786`, 0.6039215686274509, 
                     0.34509803921568627`], 
                     Opacity[1.]}], 
-                    
                     FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
                     0}}}, {{{356.46661376953125`, 199.13890075683594`}, {
                     356.46661376953125`, 124.90690612792969`}, {
@@ -14404,67 +14259,68 @@ svthfJj/YHyY/2F8WPjAzIOFH0p8AQA7u3Ea
                     DefaultBaseStyle -> {Background -> None}, 
                     BaselinePosition -> Baseline, Method -> "Preemptive"], 
                     "]"}], Short[#, 0.75]& ], 
-                    "OEM6eJztW3tsHEcZv/Pd+\
-e0kTt1UtAWdNhYqqOdH7MR2JHpnn312ROwcHrtp8yje25u1N97b3czs+\
-XxBigyNkEpLGkhCQ6GpAwSV/\
-IHSSEjp26GggiqKFAJYBKjdNBVRaRKhtqRRoczM7t7trR3lnJi4f9zIuvW38818v+8xj/s+\
-nejGpf18qkMdh1j04eoNig6RhqDO65KqkNeiGxf3q5RB9GLvRgnrYhEuHuCHyRuwrB9iNYkEuCm2Aw\
-o6qADJRIJH6R7Ix4F7q+jBKzrTCp+\
-QhF41npQhnaUoM4sHQB0vG0hrEEN9SNWgUluLfRFextDqrbF6YSIG44CggrW1wNdP5k8TnooBmNBk8\
-tIAakzswcujvAIBlAkkFeXK9PYTGJYQHy7pRlI8d7D1LKGT0K5iXNaR1HXLGuWmRsa8d0a6okgaIxC\
-GIkhV9C4lbtkElEW6OiQ9wWsYrDANQwZtInpCRMFTKJ1Q5tMwjpcZIiJJRaCGv5Z1vAMoCTNqlLdrG\
-uQRrwgQe/tUJdtT1sFjCPS0DEWXQ/\
-eyrjFeTvLEMrisPamrCeJpIdNb3Av1ETUOyqMIEtvq0pht0nZZGlYSUNEtg+LiMKQBYz2zrBsS/\
-DAE0i5ILFZiWiwzKkeub0BKQIxcrFWGMm/IwMpwEiEy8f0EMARVEWLfMK/\
-1QGl4hELwRdUUkenGNe0xrMpJHdr5cVUvP6xIoiSwUA5/QnxaykxieK6iG/\
-HaiCRgSlabRnLjsgHyblSBGKOv1fy8e3ZXPJgJH7JWIrwAIypKZN6RSfu7O8KqrCL0ysu0XQyiBtZm\
-gugzrP02SK2wSeMFSU+bml6m0y6LSLIM4wT2GLStsFOuIp/HVeRyubN/\
-13hX7HxnvK6ir90eD6Ecnw4yI3J1UXERAzYphcjnTNHP1oVs9LanH95Bn9r+\
-KYXRKJ1gfFx1ij6VnQFsp6dfe2B7yDlfRsjp9+\
-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\
-UIY8XsOCquIY2f7uG/Gsa1jRxN+\
-bajcQ5WPcPanHyz0JENzbcnOgK7n6I8IJWegnXWNdQ13hD4kq5wcENnfnL+\
-jyXTwDMB6VQSi2UUgul1OuWUrPXWWeVcp77pW16UGmuOFpflUVHHfS2nN/\
-QGfdXq4IJ3NuJVMfv8NpLA8BLL43g9nnvfKSXbhygNp/\
-tIAAqrdmpSqDYOF8CoMTc64CP7WABUGG76oD2m77ABMDK7CG2UTVu6kRZDz2VWqyDMJVKzT0C1diO7\
-KmXxiRC6nlNqic4A6DcwE++bdGvHxVhOsj8+\
-WLXdSdtaVrbJDbG1gRiYrwp0Axb1gViDY2NAb51nSiIImxrEMQAoIuLejNMvpMQRcEquxeGLC8MZaP\
-c+K0iH5PnRHlpV1yat2OlMYZeiJgYRcdGBf9/ivf4wA=="}, "ClickToCopyTemplate"]}}, 
+                    "OEM6eJztW3tsHEcZv/Od34/\
+EqZuKtqDTxkIF9ezzI7Edid7ZZ58dEduHx27aPIr39ubsjfd2NzN7Pl+\
+QIkMjpNKSBpLQUGjqAEElf6A0ElL6diiooIoihQAWAWo3TUVUmkSoLWlUKDOzu3d7a0c5OybuHzeJb\
+v3tfDPf73vM475PF3PikgE+2aFMQBwrxNWbZA0iFUGN10RFJq9jTlw0oFCGmBu7N4tYixXgokF+\
+hLwBVQMQKwkkwP7ITihooBwk4nEepXogHwXObTEXXt2Zkvm4KPQq0YQE6SwF6VlcAGq4ajClQgy1YU\
+WFcm0tLgzxEoZmb43ZC+\
+MRGAUEFaytBYUDZP4U4SkfhHFVIi91oPrELrwqzMsQQIlAUlC2TPcAgWEKKcTF3UiMZg82n8V0EtpV\
+hEs7EppmWqPM0Eif985QVxiJ4wTCcAgpstYlR02bgNJQV4eoxXkVg9WGYcigfqInRBQ8hdIJJT4Fo7\
+hKFxFKyAI1/\
+PWs4x5ECZhWo6xdVSGPeFmA2N2nyJme0g4eQ6ClJBhz2HQv7RrnpQRPLINL2xOaEieeFtK9Rb1QG1W\
+ioCyMILGtJo5bJm2XxBE5DmXNNCguCkIaMOYzw7opzo9AIO6GxGLFhsXSo7LkFg6KcYiRg7WKQPoNG\
+VgRTCBEJr6fAIagMkTsG+TVHiiOjFIIhWElSWQ6cU17BCtSQoNWflzZy4/IYkwUWCgHPyE+\
+LWEm0T1X3o14dVQUMCWrDSM5cekgeTcmQ4zR12p+3j23O+\
+pPhw9ZKyFegCEFxdPvyKQD3R1BRVIQeuVl2i75kY+1WT/6DGu/\
+9VMr9Ku8IGopQ9MrdNqqkChJMEpgj0PLCjvtKCh0OQocDmfm/\
+3XeFdnf6a8r6Wuny0Uo26eNTItcV1BUwIBNiQHyOVvwsw0BC7396Yd30qd6YFpmNErFGR9XnaRPeZc\
+XW+mZ1x7YEbDPlxZy5r37rIP2S37BOqnDMTxqFWrSaVDG+LQQ63xESLGuiYNJ3nfkxykd2elx+\
+nzDcQrrmniYJh/v3ycHLPx3v3x4TAf1ppDVf/HDduv4rPmJ0LsLmJBHmPr7ev5jMIV1pp6u3fR5bc/\
+nGF33XcDooq/PjVpph+PEqJXfcSbekjXf63PrGYj/\
+XsKG5s302XfwbBadBmnQD7imtlvpiV94t1vnmyj/\
+1TarvMNvf2ubFc9k7ZZ19Dn24m8YPdyNOCY38jajPXc6OKtRTPrkU3dZ6clDwRbROt60jzm/\
+aT9Tfvj80aQV3yz3bNKK36RN/Uza1N+kTfuY85n2y/JXzuv85LO0zfnR9w7RdsGPrn1E28Uc1/\
+lph8vpzlq4p9e5nIV61E52MWCP/1E37Mn3tjKDXftC1EoH9h0bClj4J5/7+\
+KGAfXzOCtWwdtaPPsva3/zo4AHazt+8QpPnZmJWhUzaBDzr3rvDqpBJmwpnjc9ZoY+u0vYPP/\
+rhD2h7148eYu3SzSs0da6VhdrU1afZvjAbamIAr2x9n4Wy2T/56x7IPALW9izUz8bnrNBa1t7xoz+\
+coe2tZQy5yUuBYQpo+i9zCabQ8QeZp34y+Si20quPvsR2Z5P/mS+u3xWwj89ZoSNP0UYi7Q7W/\
+rycIXf576pVIZM2AU9xx0SrQiZtKpw1PmeFtrP2Tz96/jnaLvrRHtaWIeRmY58wDwRefG2CAa5+\
+jAGsjexiR5rZf0/FXRpT4Pg7wwv1s/\
+E5K7SetQsWhRpZe2sZPHSoiZ2xs7v04yMcOaJ75oVA1Eo7jvyLbQom/\
+3TZxq8G7ONzVkjfC875EWDtvN9YVX+6eYUCye5xq0ImbQI+\
+8WYHsipk0qbCWeNzVmgba2Rzu481cvF88vu0Lcc5dPQK80DgtmNsl9vf+gFbS44dTv1KZvRP/3QH2+\
+Vm18yMLdTPxt/SkHNlFKLauKk20+O6eSefuMrQ+R7Zy8x/6oMBJWDp3x88uytg519x9Ono9+\
+xlJ0f41HaGMhz9PbCuBsfDPaGAnf+WXmoWRF/5qH4z+dITDO30N3+nH+iPdTJtnvnG64yefvIN/\
+SZj5V9x9LP83IMUjedynR4pr/6IofR1z7BI8pw9zugJ/CrzSRb/LT3dF0I/\
+taeF2XJ65iJdvVMXmpsYfWLoO/p+W7mljz5n/voSO/my+Fce/YeQoRzWDtDn4arSEUar/\
+36X7UUH37+HPXvUV3T0Vv5YsS3vUd6OVShoAzQbEHSmX7vbJ8h3/\
+XTWyUisdPDC2AhSEnLUllgpDCE+bs+2lLGXg6Iwhu15mE9jHmQBcPMRBdel+\
+SqDvDAKzXSJ3VYVQEOi2i9vktWEZnYWZTJrrowfjGgy84mZHjOfWML1EUNu9HDgdiNhtkmD8XZZVvR\
+8JHBd/vZUht+eATQmBHdw7bKmyOxDGa8f4McSvUoUcsDFeTj7IAMXcHO/\
+fIEDwqimqXhjfT0ysni4LqlIMeJfQVIS0TpBideHeUGC2gBUFSxqCkpleOvb2qK+\
+Vhhb721ramv2NscaWrytzc1t3kbe19AUiTVHNrS11oOKnpQKkSTKY0MDm0EZMUcnjPEJKZNApWpb7F\
+LAcfauXIxJk4c5G5Pw64pliyJc+\
+57PSd4qrhNigcQCnTx3sUGuT9FgRFHGPJhm5zxJURv1CFCSsCemIA+\
+c0CCSeYn8AYUEncGjxDzUpx7ijDhPluh1ELPwXG3E4bzcpckBiskulojLOJ0DNp7kE8YybG6i+\
+HyeBVKoZfRVJySWhPa1ssoAw2Ba1t2NscyXkzsgUyqgO7E8gnOWGixYvDBL5tlt24FrwKiSpLuFPBI\
+c5REv0Myx3UTlfYl4BKJeHo3N66sKk7FaGEFBxHQrc2W8zKZOyRo/wWTPG/p/DgPXoKJ+\
+egNgNfUJ2W5gmO5YenlBd7DTehKy2sKK1ESCkoKXXBOxn935oki+KJIviuSLIvmiSL4oki+K5IsiS/\
+NQviiSL4rkiyL5oki+KJIviuSLIvmiSL4oki+\
+KLF9RpDRfFMkXRVakKHJDxBXcl2EqqaAoXkzIXSf4Sow4ct5LwuxeDhRxFCMHirkw8fUGDpRxXYYqH\
+JFsZGGJBA4Uclt7v8IRB2yFSKF/\
+VRPIW4gZAFR5xFK1uBCMKig7QIAjJy2ruU5FSNC0Lb8oz1xvoUDuFqyRFVmJSzBuDdePxBGRxucAlC\
+CPF7HgKjlfm6ddRZ5GX2MTtzTXbibOwZpnSI2SPxYjuqHB0y9oSxddzt0PEV7USi/\
+mGup8dUsTV8INDW3qzF3W57lcAmAhKPlSar6Umi+l3rCUmrnO2quUC9wvLdODCmPF0fqqFLPVQW/L+\
+g2dfn81K5jAuYNItf0Or73EC9z00ghuX/\
+DOR3rpxgFqc9kOvKDCnJ2qBIr088ULio29DhSyHcwLyi1XHdB+0xcYL1iTOcQ2K/\
+pNnSjroqdSi3kQJpPJ+UegEtmZOfVSmERIPa+K9QSnF5Tp+Mm3Lfr1ozxIBxk/X+\
+y64aStTT5fVGiNeYVYc9Tb3ED+\
+igjQ521sJv9aGnxCpFHwArq4qDeD5DsJURSstXph2PTCcCbK9d8q8hFpXpSXdEXFBTvW6GPohYiJkT\
+WsV/D/B3+G+FU="}, "ClickToCopyTemplate"]}}, 
                     GridBoxAlignment -> {"Columns" -> {{Left}}}, AutoDelete -> 
-                    False, GridBoxItemSize -> {
+                    False, 
+                    GridBoxItemSize -> {
                     "Columns" -> {Automatic, Automatic, Fit}, 
                     "Rows" -> {{Automatic}}}], "Grid"], FontColor -> 
                    GrayLevel[0.5], FontSize -> 12, StripOnInput -> False]}}, 
@@ -14497,7 +14353,7 @@ c+K0iH5PnRHlpV1yat2OlMYZeiJgYRcdGBf9/ivf4wA=="}, "ClickToCopyTemplate"]}},
              DateString[
               TimeZoneConvert[
                DateObject[
-               3.897514421155197`16.34336271995259*^9, TimeZone -> 0]], {
+               3.90604437869243`16.34431216239539*^9, TimeZone -> 0]], {
               "MonthName", " ", "DayShort", ", ", "Year", " ", "Hour12Short", 
                ":", "Minute", " ", "AMPMLowerCase"}], SingleEvaluation -> 
              True, Evaluator -> "System"], FontSlant -> Italic, FontColor -> 
@@ -14581,7 +14437,7 @@ c+K0iH5PnRHlpV1yat2OlMYZeiJgYRcdGBf9/ivf4wA=="}, "ClickToCopyTemplate"]}},
                    Style[
                     RawBoxes["Echo"], "Program", FontWeight -> Medium, 
                     ShowStringCharacters -> True], 
-                   ".\!\(\*StyleBox[\"\\\" (L165,C9) \\\"\", \
+                   ".\!\(\*StyleBox[\"\\\" (L192,C9) \\\"\", \
 Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, Inherited]], \
 Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", False]]], \
 Rule[StripOnInput, False]]\)"}]}] :> 
@@ -14592,27 +14448,27 @@ Rule[StripOnInput, False]]\)"}]}] :>
                 DefinitionNotebookClient`PackageScope`setHint[
                  "Suggestion", "Paclet", 
                   DefinitionNotebookClient`$CurrentNotebook, 
-                  "dff009b6-a9f8-49b9-8233-1a5f590896f2", 858320924, 
+                  "cd905fc1-5836-42de-9c57-9b1601dd74ab", 858320924, 
                   "CodeInspectionFileIssue/SuspiciousSessionSymbol", <|
                   "File" -> 
                    "/Volumes/Macintosh \
 HD/Users/antonov/WL-RakuMode-paclet/Kernel/RakuMode.wl", "Editor" -> 
-                   Automatic, "SourceLineStart" -> 165, "SourceColumnStart" -> 
-                   9, "SourceLineEnd" -> 165, "SourceColumnEnd" -> 13, 
+                   Automatic, "SourceLineStart" -> 192, "SourceColumnStart" -> 
+                   9, "SourceLineEnd" -> 192, "SourceColumnEnd" -> 13, 
                    "Message" -> 
                    "Suspicious use of session symbol ``Echo``.\!\(\*StyleBox[\
-\"\\\" (L165,C9) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
+\"\\\" (L192,C9) \\\"\", Rule[FontOpacity, 0.65`], Rule[FontSize, Times[0.9`, \
 Inherited]], Rule[PrivateFontOptions, List[Rule[\"OperatorSubstitution\", \
 False]]], Rule[StripOnInput, False]]\)", "SourceInformation" -> 
                    CodeInspector`InspectionObject[
                     "SuspiciousSessionSymbol", 
                     "Suspicious use of session symbol ``Echo``.", "Warning", <|
-                    CodeParser`Source -> {{165, 9}, {165, 13}}, 
+                    CodeParser`Source -> {{192, 9}, {192, 13}}, 
                     ConfidenceLevel -> 0.55, "File" -> 
                     "/Volumes/Macintosh \
 HD/Users/antonov/WL-RakuMode-paclet/Kernel/RakuMode.wl", "Editor" -> 
-                    Automatic|>], "Hash" -> 6335356719653325914, "Position" -> 
-                   "\!\(\*StyleBox[\"\\\" (L165,C9) \\\"\", Rule[FontOpacity, \
+                    Automatic|>], "Hash" -> 3544907539325386207, "Position" -> 
+                   "\!\(\*StyleBox[\"\\\" (L192,C9) \\\"\", Rule[FontOpacity, \
 0.65`], Rule[FontSize, Times[0.9`, Inherited]], Rule[PrivateFontOptions, \
 List[Rule[\"OperatorSubstitution\", False]]], Rule[StripOnInput, \
 False]]\)"|>]; DefinitionNotebookClient`PackageScope`seekAfter[858320924]; 
@@ -14632,7 +14488,7 @@ resolution"}] :> DefinitionNotebookClient`WithCurrentNotebook[
                 DefinitionNotebookClient`PackageScope`setHint[
                  "Warning", "Paclet", 
                   DefinitionNotebookClient`$CurrentNotebook, 
-                  "42c12543-fbea-4369-8822-ee0253dccade", 1295649668, 
+                  "6c4f22d2-bc57-40ae-9e50-ee2fc3788822", 1295649668, 
                   "HugeRaster", {1295649668}]; 
                 DefinitionNotebookClient`PackageScope`seekAfter[1295649668]; 
                 Null]}, Appearance -> None], "BoxID" -> "WarningCountButton"], 
@@ -14697,8 +14553,8 @@ resolution"}] :> DefinitionNotebookClient`WithCurrentNotebook[
                   Not[
                    FreeQ[
                    DefinitionNotebookClient`Stripes`PackagePrivate`c$, 
-                    "69f95485-e95f-4c2b-82a5-5937d6c0e975"]]]]]], Appearance -> 
-             None, BoxID -> "69f95485-e95f-4c2b-82a5-5937d6c0e975"], 
+                    "ae51f18a-34a4-4447-8493-d62f0226d456"]]]]]], Appearance -> 
+             None, BoxID -> "ae51f18a-34a4-4447-8493-d62f0226d456"], 
             "LinkHand"]}}, Alignment -> {Left, Baseline}], 
         Grid[{{"", 
            Style[
@@ -14743,8 +14599,7 @@ resolution"}] :> DefinitionNotebookClient`WithCurrentNotebook[
                     TagBox[
                     TemplateBox[{"\"UUID\"", "\": \""}, "RowDefault"], 
                     "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox[
-                    "\"99d08ef5-9394-4f17-8449-2a013bf4b698\"", 
+                    TagBox["\"99d08ef5-9394-4f17-8449-2a013bf4b698\"", 
                     "SummaryItem"]}]}}, 
                     GridBoxAlignment -> {
                     "Columns" -> {{Left}}, "Rows" -> {{Automatic}}}, 
@@ -14798,12 +14653,12 @@ resolution"}] :> DefinitionNotebookClient`WithCurrentNotebook[
                     TagBox[
                     TemplateBox[{"\"Version\"", "\": \""}, "RowDefault"], 
                     "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"1.0.2\"", "SummaryItem"]}]}, {
+                    TagBox["\"1.0.3\"", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox[
                     TemplateBox[{"\"SubmissionID\"", "\": \""}, "RowDefault"],
                      "SummaryItemAnnotation"], "\[InvisibleSpace]", 
-                    TagBox["\"9183\"", "SummaryItem"]}]}, {
+                    TagBox["\"3530\"", "SummaryItem"]}]}, {
                     RowBox[{
                     TagBox[
                     
@@ -14842,7 +14697,7 @@ resolution"}] :> DefinitionNotebookClient`WithCurrentNotebook[
                     "SummaryPanel"], DynamicModuleValues :> {}], "]"}], 
                    Short[#, 0.75]& ], 
                   "OEM6eJztWE9vG0UUj+\
-O1HTuuG9ogBCdrFYE4uEqaADGX4GziNlLTWh63gBBSx9639ojd2dXMbFLzHThx5cC3gjN8AD4CvNl/\
+O1HTuuG9ogBCdrFYE4uEpICjGX4GziNlLTWh63gBBSx9639ojd2dXMbFLzHThx5cC3gjN8AD4CvNl/\
 dtapFJwgevBe1tr37zdv3nu/JzsFudGnl8f+G5BOSb53xhWIQICiivkcPzsFWe77WsExpPGMSeWsy/\
 KAjvELqZBwNAIpySYJPY+K6VOgNil85xTl1smUU4+\
 Nzn07dEGbr2fmRQJKNgbTACSo134AfGdHlrrUlZBKt1MpeEOwCcKBnR1S6qP/\
@@ -14855,19 +14710,18 @@ JMQtyuzOUvhsqmNeX987pmDOHjaIatv7G697oCupFl1qUG1F6dPmWzD9++\
 dlEh9UTJrBm9JlR3n9ybPmuL8QH0fPbkXgYPX8eiW+i5/\
 cj68PsxHWiBAte8DMehGpWxbGwYSF0BNajts34OC+uRbAiPLl7rEeScyrGjMv5MtZva81ay/9+\
 O5byrNhTP4XsnfZ2Md/b+SZLTEnDTMtcV6hJDPPLpklq6OYEHBq6iryflPyZAq/DuR+\
-PElL866df50bHhtmjIxeUmc0OrX8bZGXz5cuzk+URfWy22/\
-buITiftdr77YPWgbP3Revw4KDdekx39/aHzsHw8/ZhDm+a+\
+PElL866df50bHhtmjIxeUmc0OrX8bZGXz5cuzk+URfWy22/buITiPW+\
+399kHrwNn7onV4cNBufUZ39/aHzsHw8/ZhDm+a+\
 a0kxQudkmqQCtZU6HE5d8S4KYxn4MzUDMS9qHNNw9b0J5wioCBfVvcTMBph1Io3xrIY5+\
 aA0qgkoCNd6zeOaq3/+\
 2Bzc87IzbltMvEvdSPwsTXBITnScyqfos3nIRKLwAb7YUHWwMGOLYsTgUk9QIqzW45cT7mib+\
 KmzZv+x2VQHPjBu1sAW/pOXMah50uWkFl8wQWrkGnFTPa/MLDl+\
-nJpBs6P7hUFryh4CQqurCj4jin4Fnir5itsIASyPOSKufdo99Hju8PUMEk49JjUsG6Ty7LZ3jvcvzt\
-cW2bcoZaAKN7yyCIGuMM7PEcexom3PKBPzW+\
-xnZpB1A1NkTRXk8nmEHBkNINw6DI5AfvuslkyUb484u1sBMyKZbWZrjbT1Wa6xGY625LyS981O9Wce\
-1JP+k2vq25+rXx45Q+weC1KF0JS+B7Vs3/\
-PHiw2c6fcIvV5miflmKxbxNAcS3ZuwpQtUkkIjpQimmppzDN2IYbmiBZpXB3t8Y6OxslkJZ/\
-ccD7OKiD+E44O3YUK2Di12bWCB7HN10xNkpVNxkD+Ab279Ns="}, 
-                 "ClickToCopyTemplate"]]}, {
+nJpBs6P7hUFryh4CQqurCj4jin4Fnir5itsIASyPOSKufdo99H+3WFqmCQcekxqWLfJZdncf7y/\
+e3e4tsy4Qy0BUbzlkUUMcId3eI48jBNveUCfmt9iOzWDqBuaImmuJpPNIeDIaAbh0GVyAvbdZbNkon\
+x5xNvZCJgVy2ozXW2mq810ic10tiXll75rdqo596Se9JteV938Wvnwyh9g8VqULoSk8D2qZ/+\
+ePVhs5k65RerzNE/\
+KMVm3iKE5luzchClbpJIQHClFNNXSmGfsQgzNES3SuDra4x0djZPJSj654XycVUD8JxwdugsVsHFqs\
+2sFD2Kbr5maJCubjIH8A3u09Mk="}, "ClickToCopyTemplate"]]}, {
               "\[FilledVerySmallSquare]", "Resource object:", 
                RawBoxes[
                 TemplateBox[{
@@ -15107,66 +14961,65 @@ svthfJj/YHyY/2F8WPjAzIOFH0p8AQA7u3Ea
                     DefaultBaseStyle -> {Background -> None}, 
                     BaselinePosition -> Baseline, Method -> "Preemptive"], 
                     "]"}], Short[#, 0.75]& ], 
-                  "OEM6eJztW3tsHEcZv/Pd+\
-e0kTt1UtAWdNhYqqOdH7MR2JHpnn312ROwcHrtp8yje25u1N97b3czs+\
-XxBigyNkEpLGkhCQ6GpAwSV/\
-IHSSEjp26GggiqKFAJYBKjdNBVRaRKhtqRRoczM7t7trR3lnJi4f9zIuvW38818v+8xj/s+\
-nejGpf18qkMdh1j04eoNig6RhqDO65KqkNeiGxf3q5RB9GLvRgnrYhEuHuCHyRuwrB9iNYkEuCm2Aw\
-o6qADJRIJH6R7Ix4F7q+jBKzrTCp+\
-QhF41npQhnaUoM4sHQB0vG0hrEEN9SNWgUluLfRFextDqrbF6YSIG44CggrW1wNdP5k8TnooBmNBk8\
-tIAakzswcujvAIBlAkkFeXK9PYTGJYQHy7pRlI8d7D1LKGT0K5iXNaR1HXLGuWmRsa8d0a6okgaIxC\
-GIkhV9C4lbtkElEW6OiQ9wWsYrDANQwZtInpCRMFTKJ1Q5tMwjpcZIiJJRaCGv5Z1vAMoCTNqlLdrG\
-uQRrwgQe/tUJdtT1sFjCPS0DEWXQ/\
-eyrjFeTvLEMrisPamrCeJpIdNb3Av1ETUOyqMIEtvq0pht0nZZGlYSUNEtg+LiMKQBYz2zrBsS/\
-DAE0i5ILFZiWiwzKkeub0BKQIxcrFWGMm/IwMpwEiEy8f0EMARVEWLfMK/\
-1QGl4hELwRdUUkenGNe0xrMpJHdr5cVUvP6xIoiSwUA5/QnxaykxieK6iG/\
-HaiCRgSlabRnLjsgHyblSBGKOv1fy8e3ZXPJgJH7JWIrwAIypKZN6RSfu7O8KqrCL0ysu0XQyiBtZm\
-gugzrP02SK2wSeMFSU+bml6m0y6LSLIM4wT2GLStsFOuIp/HVeRyubN/\
-13hX7HxnvK6ir90eD6Ecnw4yI3J1UXERAzYphcjnTNHP1oVs9LanH95Bn9r+\
-KYXRKJ1gfFx1ij6VnQFsp6dfe2B7yDlfRsjp9+\
-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\
-UIY8XsOCquIY2f7uG/Gsa1jRxN+\
-bajcQ5WPcPanHyz0JENzbcnOgK7n6I8IJWegnXWNdQ13hD4kq5wcENnfnL+\
-jyXTwDMB6VQSi2UUgul1OuWUrPXWWeVcp77pW16UGmuOFpflUVHHfS2nN/\
-QGfdXq4IJ3NuJVMfv8NpLA8BLL43g9nnvfKSXbhygNp/\
-tIAAqrdmpSqDYOF8CoMTc64CP7WABUGG76oD2m77ABMDK7CG2UTVu6kRZDz2VWqyDMJVKzT0C1diO7\
-KmXxiRC6nlNqic4A6DcwE++bdGvHxVhOsj8+\
-WLXdSdtaVrbJDbG1gRiYrwp0Axb1gViDY2NAb51nSiIImxrEMQAoIuLejNMvpMQRcEquxeGLC8MZaP\
-c+K0iH5PnRHlpV1yat2OlMYZeiJgYRcdGBf9/ivf4wA=="}, "ClickToCopyTemplate"]]}}, 
-             Alignment -> Left, 
+                  "OEM6eJztW3tsHEcZv/Od34/\
+EqZuKtqDTxkIF9ezzI7Edid7ZZ58dEduHx27aPIr39ubsjfd2NzN7Pl+\
+QIkMjpNKSBpLQUGjqAEElf6A0ElL6diiooIoihQAWAWo3TUVUmkSoLWlUKDOzu3d7a0c5OybuHzeJb\
+v3tfDPf73vM475PF3PikgE+2aFMQBwrxNWbZA0iFUGN10RFJq9jTlw0oFCGmBu7N4tYixXgokF+\
+hLwBVQMQKwkkwP7ITihooBwk4nEepXogHwXObTEXXt2Zkvm4KPQq0YQE6SwF6VlcAGq4ajClQgy1YU\
+WFcm0tLgzxEoZmb43ZC+\
+MRGAUEFaytBYUDZP4U4SkfhHFVIi91oPrELrwqzMsQQIlAUlC2TPcAgWEKKcTF3UiMZg82n8V0EtpV\
+hEs7EppmWqPM0Eif985QVxiJ4wTCcAgpstYlR02bgNJQV4eoxXkVg9WGYcigfqInRBQ8hdIJJT4Fo7\
+hKFxFKyAI1/\
+PWs4x5ECZhWo6xdVSGPeFmA2N2nyJme0g4eQ6ClJBhz2HQv7RrnpQRPLINL2xOaEieeFtK9Rb1QG1W\
+ioCyMILGtJo5bJm2XxBE5DmXNNCguCkIaMOYzw7opzo9AIO6GxGLFhsXSo7LkFg6KcYiRg7WKQPoNG\
+VgRTCBEJr6fAIagMkTsG+TVHiiOjFIIhWElSWQ6cU17BCtSQoNWflzZy4/IYkwUWCgHPyE+\
+LWEm0T1X3o14dVQUMCWrDSM5cekgeTcmQ4zR12p+3j23O+\
+pPhw9ZKyFegCEFxdPvyKQD3R1BRVIQeuVl2i75kY+1WT/6DGu/\
+9VMr9Ku8IGopQ9MrdNqqkChJMEpgj0PLCjvtKCh0OQocDmfm/\
+3XeFdnf6a8r6Wuny0Uo26eNTItcV1BUwIBNiQHyOVvwsw0BC7396Yd30qd6YFpmNErFGR9XnaRPeZc\
+XW+mZ1x7YEbDPlxZy5r37rIP2S37BOqnDMTxqFWrSaVDG+LQQ63xESLGuiYNJ3nfkxykd2elx+\
+nzDcQrrmniYJh/v3ycHLPx3v3x4TAf1ppDVf/HDduv4rPmJ0LsLmJBHmPr7ev5jMIV1pp6u3fR5bc/\
+nGF33XcDooq/PjVpph+PEqJXfcSbekjXf63PrGYj/\
+XsKG5s302XfwbBadBmnQD7imtlvpiV94t1vnmyj/\
+1TarvMNvf2ubFc9k7ZZ19Dn24m8YPdyNOCY38jajPXc6OKtRTPrkU3dZ6clDwRbROt60jzm/\
+aT9Tfvj80aQV3yz3bNKK36RN/Uza1N+kTfuY85n2y/JXzuv85LO0zfnR9w7RdsGPrn1E28Uc1/\
+lph8vpzlq4p9e5nIV61E52MWCP/1E37Mn3tjKDXftC1EoH9h0bClj4J5/7+\
+KGAfXzOCtWwdtaPPsva3/zo4AHazt+8QpPnZmJWhUzaBDzr3rvDqpBJmwpnjc9ZoY+u0vYPP/\
+rhD2h7148eYu3SzSs0da6VhdrU1afZvjAbamIAr2x9n4Wy2T/56x7IPALW9izUz8bnrNBa1t7xoz+\
+coe2tZQy5yUuBYQpo+i9zCabQ8QeZp34y+Si20quPvsR2Z5P/mS+u3xWwj89ZoSNP0UYi7Q7W/\
+rycIXf576pVIZM2AU9xx0SrQiZtKpw1PmeFtrP2Tz96/jnaLvrRHtaWIeRmY58wDwRefG2CAa5+\
+jAGsjexiR5rZf0/FXRpT4Pg7wwv1s/\
+E5K7SetQsWhRpZe2sZPHSoiZ2xs7v04yMcOaJ75oVA1Eo7jvyLbQom/\
+3TZxq8G7ONzVkjfC875EWDtvN9YVX+6eYUCye5xq0ImbQI+\
+8WYHsipk0qbCWeNzVmgba2Rzu481cvF88vu0Lcc5dPQK80DgtmNsl9vf+gFbS44dTv1KZvRP/3QH2+\
+Vm18yMLdTPxt/SkHNlFKLauKk20+O6eSefuMrQ+R7Zy8x/6oMBJWDp3x88uytg519x9Ono9+\
+xlJ0f41HaGMhz9PbCuBsfDPaGAnf+WXmoWRF/5qH4z+dITDO30N3+nH+iPdTJtnvnG64yefvIN/\
+SZj5V9x9LP83IMUjedynR4pr/6IofR1z7BI8pw9zugJ/CrzSRb/LT3dF0I/\
+taeF2XJ65iJdvVMXmpsYfWLoO/p+W7mljz5n/voSO/my+Fce/YeQoRzWDtDn4arSEUar/\
+36X7UUH37+HPXvUV3T0Vv5YsS3vUd6OVShoAzQbEHSmX7vbJ8h3/\
+XTWyUisdPDC2AhSEnLUllgpDCE+bs+2lLGXg6Iwhu15mE9jHmQBcPMRBdel+\
+SqDvDAKzXSJ3VYVQEOi2i9vktWEZnYWZTJrrowfjGgy84mZHjOfWML1EUNu9HDgdiNhtkmD8XZZVvR\
+8JHBd/vZUht+eATQmBHdw7bKmyOxDGa8f4McSvUoUcsDFeTj7IAMXcHO/\
+fIEDwqimqXhjfT0ysni4LqlIMeJfQVIS0TpBideHeUGC2gBUFSxqCkpleOvb2qK+\
+Vhhb721ramv2NscaWrytzc1t3kbe19AUiTVHNrS11oOKnpQKkSTKY0MDm0EZMUcnjPEJKZNApWpb7F\
+LAcfauXIxJk4c5G5Pw64pliyJc+\
+57PSd4qrhNigcQCnTx3sUGuT9FgRFHGPJhm5zxJURv1CFCSsCemIA+\
+c0CCSeYn8AYUEncGjxDzUpx7ijDhPluh1ELPwXG3E4bzcpckBiskulojLOJ0DNp7kE8YybG6i+\
+HyeBVKoZfRVJySWhPa1ssoAw2Ba1t2NscyXkzsgUyqgO7E8gnOWGixYvDBL5tlt24FrwKiSpLuFPBI\
+c5REv0Myx3UTlfYl4BKJeHo3N66sKk7FaGEFBxHQrc2W8zKZOyRo/wWTPG/p/DgPXoKJ+\
+egNgNfUJ2W5gmO5YenlBd7DTehKy2sKK1ESCkoKXXBOxn935oki+KJIviuSLIvmiSL4oki+K5IsiS/\
+NQviiSL4rkiyL5oki+KJIviuSLIvmiSL4oki+\
+KLF9RpDRfFMkXRVakKHJDxBXcl2EqqaAoXkzIXSf4Sow4ct5LwuxeDhRxFCMHirkw8fUGDpRxXYYqH\
+JFsZGGJBA4Uclt7v8IRB2yFSKF/\
+VRPIW4gZAFR5xFK1uBCMKig7QIAjJy2ruU5FSNC0Lb8oz1xvoUDuFqyRFVmJSzBuDdePxBGRxucAlC\
+CPF7HgKjlfm6ddRZ5GX2MTtzTXbibOwZpnSI2SPxYjuqHB0y9oSxddzt0PEV7USi/\
+mGup8dUsTV8INDW3qzF3W57lcAmAhKPlSar6Umi+l3rCUmrnO2quUC9wvLdODCmPF0fqqFLPVQW/L+\
+g2dfn81K5jAuYNItf0Or73EC9z00ghuX/\
+DOR3rpxgFqc9kOvKDCnJ2qBIr088ULio29DhSyHcwLyi1XHdB+0xcYL1iTOcQ2K/\
+pNnSjroqdSi3kQJpPJ+UegEtmZOfVSmERIPa+K9QSnF5Tp+Mm3Lfr1ozxIBxk/X+\
+y64aStTT5fVGiNeYVYc9Tb3ED+\
+igjQ521sJv9aGnxCpFHwArq4qDeD5DsJURSstXph2PTCcCbK9d8q8hFpXpSXdEXFBTvW6GPohYiJkT\
+WsV/D/B3+G+FU="}, "ClickToCopyTemplate"]]}}, Alignment -> Left, 
              ItemSize -> {{Automatic, Automatic, Fit}, Automatic}], FontColor -> 
             GrayLevel[0.5], FontSize -> 12]}}, 
          ItemSize -> {{Automatic, Fit}, Automatic}, Alignment -> Left, 
@@ -15221,23 +15074,23 @@ Fu6DuJJG2H9mK2QZ3X1Y8rjKVdsLU11Qbnfn/Mae/TiO1RZHs2bny+6Vwq5Sfi8TnHKi+1+K4NOh"]\
   True, "PacletBuildData" -> {
    "LastBuiltArchive" -> 
     "/Volumes/Macintosh \
-HD/Users/antonov/WL-RakuMode-paclet/build/AntonAntonov__RakuMode-1.0.2.\
+HD/Users/antonov/WL-RakuMode-paclet/build/AntonAntonov__RakuMode-1.0.3.\
 paclet", "FileHashes" -> 
     ByteArray[{56, 67, 58, 120, 156, 115, 100, 215, 13, 86, 115, 201, 79, 46, 
       205, 77, 205, 43, 73, 44, 201, 204, 207, 211, 119, 205, 75, 207, 201, 
       44, 206, 208, 247, 204, 75, 73, 173, 208, 47, 78, 77, 7, 73, 21, 199, 
       27, 58, 50, 233, 6, 179, 5, 231, 151, 22, 37, 167, 22, 179, 248, 229, 
-      231, 165, 2, 185, 33, 137, 69, 233, 169, 37, 62, 166, 157, 188, 39, 26, 
-      147, 216, 13, 116, 131, 53, 136, 49, 75, 47, 61, 53, 15, 143, 105, 172, 
-      31, 102, 60, 90, 32, 249, 172, 68, 55, 88, 27, 187, 105, 193, 5, 169, 
-      57, 57, 36, 56, 111, 191, 213, 235, 23, 55, 62, 120, 123, 233, 6, 235, 
-      18, 109, 32, 209, 110, 20, 242, 78, 45, 202, 75, 205, 209, 15, 74, 204, 
-      46, 245, 205, 79, 73, 213, 43, 207, 65, 210, 231, 115, 213, 248, 205, 
-      190, 171, 7, 85, 109, 16, 90, 17, 34, 188, 1, 137, 201, 57, 169, 37, 
-      158, 121, 105, 249, 104, 186, 60, 43, 138, 226, 142, 189, 93, 193, 129, 
-      208, 133, 16, 17, 132, 232, 242, 77, 204, 203, 76, 75, 45, 46, 65, 213, 
-      137, 238, 206, 61, 41, 119, 218, 14, 186, 118, 134, 2, 0, 57, 108, 181, 
-      117}]}},
+      231, 165, 2, 185, 33, 137, 69, 233, 169, 37, 62, 183, 39, 136, 77, 154, 
+      252, 250, 35, 167, 110, 176, 6, 49, 102, 233, 165, 167, 230, 225, 49, 
+      141, 245, 195, 140, 71, 11, 36, 159, 149, 232, 6, 107, 99, 55, 45, 184, 
+      32, 53, 39, 135, 4, 231, 101, 78, 254, 189, 90, 244, 154, 134, 164, 110,
+       176, 46, 209, 6, 18, 237, 70, 33, 239, 212, 162, 188, 212, 28, 253, 
+      160, 196, 236, 82, 223, 252, 148, 84, 189, 242, 28, 36, 125, 62, 166, 
+      134, 55, 67, 68, 174, 172, 246, 65, 104, 69, 136, 240, 6, 36, 38, 231, 
+      164, 150, 120, 230, 165, 229, 163, 233, 10, 180, 11, 172, 88, 118, 180, 
+      164, 8, 161, 11, 33, 34, 8, 209, 229, 155, 152, 151, 153, 150, 90, 92, 
+      130, 170, 19, 221, 157, 207, 99, 21, 58, 83, 62, 179, 178, 0, 0, 134, 
+      42, 177, 219}]}},
 CreateCellID->True,
 DynamicEvaluationTimeout->60,
 FrontEndVersion->"13.3 for Mac OS X ARM (64-bit) (June 3, 2023)",
@@ -15586,7 +15439,6 @@ VX/aMEEQzrerjFhhelYAzofFB3r8AgApYdcE
                     15.75, 17.25}, {15.75, 5.25}, {6.75, 5.25}, {6.75, 
                     17.25}, {8.25, 17.25}, {8.25, 18.}}, {{9.75, 17.25}, {
                     12.75, 17.25}, {12.75, 16.5}, {9.75, 16.5}}}], 
-                    
                     FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}}, {{0, 2,
                      0}, {0, 1, 0}, {0, 1, 0}}, {{0, 2, 0}, {0, 1, 0}, {0, 1, 
                     0}}, {{0, 2, 0}, {0, 1, 0}, {0, 1, 0}}}, {{{8.25, 
@@ -16784,6 +16636,7 @@ AsyncronousResourceInformationUpdates = False,
                     Null]; Null]]]}, Appearance -> None, Method -> "Queued"], 
             
             TemplateBox[{
+              
               TemplateBox[{
                "\"Guidelines\"", 
                 "\"View general guidelines for authoring paclets\""}, 
@@ -17408,7 +17261,6 @@ h/Fh4QMzDxZ+6PEFAOibv7E=
                 FaceForm[{
                   RGBColor[0.46275, 0.36078, 0.61176], 
                   Opacity[1.]}], 
-                
                 FilledCurveBox[{{{0, 2, 0}, {0, 1, 0}, {0, 1, 0}, {0, 1, 
                  0}}}, {{{269.93, 350.12}, {269.93, 275.32}, {205.16, 
                  237.93}, {205.16, 312.72}, {269.93, 350.12}}}]}, {
@@ -21501,7 +21353,6 @@ later."]]]]],
                     With[{RSNB`nb$ = EvaluationNotebook[], 
                     RSNB`$cp$ = $ContextPath}, 
                     Quiet[
-                    
                     Block[{$ContextPath = RSNB`$cp$, 
                     ResourceSystemClient`$\
 AsyncronousResourceInformationUpdates = False, 
@@ -21982,7 +21833,6 @@ directory.\""}, "PacletDirectoryChooserErrorTemplate"]], "AttachedMessage"],
                     "PacletDirectoryChooserErrorTemplate"]], 
                     "AttachedMessage"], "Inline", 
                     RemovalConditions -> {"EvaluatorQuit"}], 
-                    
                     With[{RSNB`nb$ = EvaluationNotebook[], 
                     RSNB`$cp$ = $ContextPath}, 
                     Quiet[
@@ -22082,7 +21932,6 @@ RefreshNotebookPacletFiles[RSNB`nbo, RSNB`cell]]]],
                     If[
                     And[RSNB`nbDir =!= RSNB`oldDir, 
                     MemberQ[$Packages, "PacletResource`DefinitionNotebook`"]], 
-                    
                     With[{RSNB`nb$ = EvaluationNotebook[], 
                     RSNB`$cp$ = $ContextPath}, 
                     Quiet[
@@ -22182,6 +22031,7 @@ directory.\""}, "PacletDirectoryChooserErrorTemplate"]], "AttachedMessage"],
                     Quiet[
                     
                     Block[{$ContextPath = RSNB`$cp$, 
+                    
                     ResourceSystemClient`$\
 AsyncronousResourceInformationUpdates = False, 
                     DefinitionNotebookClient`$ButtonCodeID = None}, 
@@ -22586,8 +22436,8 @@ AsyncronousResourceInformationUpdates = False,
                     DefinitionNotebookClient`$ButtonCodeID = 
                     341138948110023950; 
                     DefinitionNotebookClient`CheckForUpdates[RSNB`nb$, 
-                    ReleaseHold[DefinitionNotebookClient`$ButtonCode = 
-                    HoldForm[
+                    ReleaseHold[
+                    DefinitionNotebookClient`$ButtonCode = HoldForm[
                     
                     PacletResource`DefinitionNotebook`\
 RefreshNotebookPacletFiles[RSNB`nbo, RSNB`cell]]]], 

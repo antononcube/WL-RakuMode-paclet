@@ -23,10 +23,12 @@ RakuInputExecute::usage = "Execution function for the cell style \"RakuInputExec
 
 RakuCommand::usage = "Raku (Perl 6) command invocation.";
 
-DeleteCells::usage = "Delete cells of a specified style.";
+PacletInstall["AntonAntonov/NotebookModifiers", AllowVersionUpdate -> False];
+
 
 Begin["`Private`"];
 
+Needs["AntonAntonov`NotebookModifiers`"];
 
 (***********************************************************)
 (* Input execution                                         *)
@@ -120,21 +122,46 @@ RakuModeNotebookStyle[] := nbRakuStyle;
 (* RakuMode function                                       *)
 (***********************************************************)
 
+originalNotebookStyle = "Default.nb";
+
 Clear[RakuMode] ;
 RakuMode[True] = RakuMode[];
 
-RakuMode[] := RakuMode[EvaluationNotebook[]];
+Options[RakuMode] := {"BaseNotebookStyle" -> Automatic};
 
-RakuMode[nb_NotebookObject, True] := RakuMode[nb];
+RakuMode[opts : OptionsPattern[]] := RakuMode[EvaluationNotebook[], opts];
 
-RakuMode[nb_NotebookObject] :=
-    Block[{},
-      SetOptions[nb, StyleDefinitions -> BinaryDeserialize[BinarySerialize[nbRakuStyle]]]
+RakuMode[nb_NotebookObject, True, opts : OptionsPattern[]] := RakuMode[nb, opts];
+
+RakuMode[nb_NotebookObject, opts : OptionsPattern[]] :=
+    Block[{bNbStyle, nbRakuStyleLocal},
+
+      nbRakuStyleLocal = RakuModeNotebookStyle[];
+      bNbStyle = OptionValue[RakuMode, "BaseNotebookStyle"];
+
+      Which[
+        TrueQ[bNbStyle === Automatic],
+        bNbStyle = AntonAntonov`NotebookModifiers`FindStyleSheet[];
+        originalNotebookStyle = bNbStyle;
+        nbRakuStyleLocal = nbRakuStyleLocal /. {"Default.nb" -> bNbStyle },
+
+        StringQ[bNbStyle],
+        bNbStyle = AntonAntonov`NotebookModifiers`FindStyleSheet[bNbStyle];
+        If[ ! TrueQ[bNbStyle === $Failed],
+          originalNotebookStyle = bNbStyle;
+          nbRakuStyleLocal = nbRakuStyleLocal /. {"Default.nb" -> bNbStyle }
+        ],
+
+        True,
+        originalNotebookStyle = "Default.nb"
+      ];
+
+      SetOptions[nb, StyleDefinitions -> BinaryDeserialize[BinarySerialize[nbRakuStyleLocal]]]
     ];
 
-RakuMode[ False] := SetOptions[EvaluationNotebook[], StyleDefinitions -> If[ $VersionNumber >= 13.3, "Chatbook.nb", "Default.nb"]];
+RakuMode[ False] := SetOptions[EvaluationNotebook[], StyleDefinitions -> originalNotebookStyle];
 
-RakuMode[nb_NotebookObject, False] := SetOptions[nb, StyleDefinitions -> If[ $VersionNumber >= 13.3, "Chatbook.nb", "Default.nb"]];
+RakuMode[nb_NotebookObject, False] := SetOptions[nb, StyleDefinitions -> originalNotebookStyle];
 
 
 (***********************************************************)
